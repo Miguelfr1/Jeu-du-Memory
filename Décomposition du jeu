@@ -1,0 +1,9 @@
+idées principale :
+- Faire l'interphace du jeu grace a Tkinter
+- Importer 5 paires de photos
+- importer une photo pour les cartes retournées
+Améliorations :
+- Musique/Son de fin lors de la victoire
+- Compteur de tentatives de retournements de cartes 
+- Bouton pour reinitialiser le jeu
+- Ecrire l'ancien record qui correspond aux nombres de tentatives la plus basse acquise par un joueur
