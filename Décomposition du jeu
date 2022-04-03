@@ -1,1 +1,20 @@
+def melanger_grille():
+creer les grilles et melanger les cartes
 
+def creer_logos():
+mettre les images choisient dans les grilles 
+
+def remplir():
+placer les images dans les grilles
+
+def clic():
+creation de levenement quand on clic(retourner la carte)
+
+def cacher():
+retournement des cartes
+
+def applaudir():
+mettre un applaudissement a la victoire
+
+def quitter():
+fin du jeu
