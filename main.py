@@ -15,8 +15,8 @@ X0 = Y0 = SIDE // 2
 
 NB_CARTES=NB_LIG*NB_COL//2
 
-LANG=['c', 'cpp', 'go', 'java', 'js', 'ocaml',
-      'php', 'python', 'ruby', 'scratch']
+LANG=['Billy', 'kameto', 'amine', 'tomy', 'amaru', 'inox',
+      'bichou', 'michou', 'sardoche', 'pfut']
 
 # Modif : mélange récrit en fonction
 def melanger_grille():
@@ -42,9 +42,7 @@ cover = PhotoImage(file="./images/cover.gif")
 plateau=melanger_grille()
 
 
-#  
-# 1. liste 1D logos de PhotoImage
-# 2. compléter boucle imbriquée
+
 logos=[]
 
 for lang in LANG:
