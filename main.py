@@ -18,7 +18,7 @@ NB_CARTES=NB_LIG*NB_COL//2
 LANG=['Billy', 'kameto', 'amine', 'tomy', 'amaru', 'inox',
       'bichou', 'michou', 'sardoche', 'pfut']
 
-# Modif : mélange récrit en fonction
+
 def melanger_grille():
     cartes=list(range(NB_CARTES))*2
     shuffle(cartes)
